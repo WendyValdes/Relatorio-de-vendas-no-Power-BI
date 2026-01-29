@@ -2,7 +2,7 @@
 
 - Descrição do Desafio
 
-Este projeto faz parte do primeiro desafio prático com Power BI da DIO. O objetivo é aplicar, na prática, os conceitos aprendidos ao longo do curso, desenvolvendo um relatório interativo e visualmente claro, além de fortalecer o portfólio no GitHub — algo essencial para processos seletivos na área de dados 😎
+Este projeto faz parte do primeiro desafio prático com Power BI da DIO. O objetivo é aplicar, na prática, os conceitos aprendidos ao longo do curso, desenvolvendo um relatório interativo e visualmente claro, além de fortalecer o portfólio no GitHub
 
 Neste desafio, foram replicadas duas páginas já desenvolvidas durante o curso e criada uma terceira página autoral, com foco no desenvolvimento e personalização de visuais no Power BI.
 
